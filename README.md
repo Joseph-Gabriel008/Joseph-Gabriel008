@@ -1,33 +1,33 @@
 <h1 align="center">Hi 👋, I'm S. Joseph Gabriel</h1>
-<h3 align="center">A Future Cloud Engineer | CSE Student</h3>
+<h3 align="center">Future Cloud Engineer | CSE Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joseph-gabriel008&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=joseph-gabriel008&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=joseph-gabriel008&theme=onedark&margin-w=10" alt="trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=joseph-gabriel008&theme=onedark&margin-w=10" />
 </p>
 
----
+<hr/>
 
-### 🚀 About Me
+<h2>🚀 About Me</h2>
 
-- 🔭 Currently working on **Telegram Chatbot using OpenRouter**
-- 🌱 Learning **B.E. Computer Science and Engineering**
-- 👯 Looking to collaborate on **Python, Automation & Cloud Projects**
-- 🤝 Seeking help with **Cloud Deployment (AWS / GCP) & Backend Optimization**
-- 💬 Ask me about **Python, Flutter, Chatbots & GitHub**
-- 📫 Reach me at **sjosephgabriel8@gmail.com**
-- 👨‍💻 Projects: <a href="https://github.com/Joseph-Gabriel008">GitHub Profile</a>
-- 📄 Experience & Details: <a href="https://www.linkedin.com/in/joseph-gabriel-901708326/">LinkedIn</a>
+<ul>
+  <li>🔭 Currently working on <b>Telegram Chatbot using OpenRouter</b></li>
+  <li>🌱 Learning <b>B.E. Computer Science and Engineering</b></li>
+  <li>👯 Looking to collaborate on <b>Python, Automation & Cloud Projects</b></li>
+  <li>🤝 Seeking help with <b>Cloud Deployment (AWS / GCP) & Backend Optimization</b></li>
+  <li>💬 Ask me about <b>Python, Flutter, Chatbots & GitHub</b></li>
+  <li>📫 Reach me at <b>sjosephgabriel8@gmail.com</b></li>
+  <li>👨‍💻 Projects: <a href="https://github.com/Joseph-Gabriel008">GitHub Profile</a></li>
+  <li>📄 Experience: <a href="https://www.linkedin.com/in/joseph-gabriel-901708326/">LinkedIn</a></li>
+</ul>
 
----
+<hr/>
 
-### 🌐 Connect With Me
-<p align="left">
+<h2>🌐 Connect With Me</h2>
+<p>
   <a href="https://www.linkedin.com/in/joseph-gabriel-901708326/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
@@ -36,10 +36,10 @@
   </a>
 </p>
 
----
+<hr/>
 
-### 🛠️ Languages & Tools
-<p align="left">
+<h2>🛠️ Languages & Tools</h2>
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -51,26 +51,31 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
----
+<hr/>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseph-gabriel008&layout=compact" />
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseph-gabriel008&layout=compact&theme=transparent&cache_seconds=86400&v=1"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseph-gabriel008&show_icons=true" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=joseph-gabriel008&show_icons=true&theme=transparent&cache_seconds=86400&v=1"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-gabriel008" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=joseph-gabriel008&theme=transparent&cache_seconds=86400"/>
 </p>
 
----
+<hr/>
 
-### 🟡 Contribution Graph
+<h2>🟡 Pacman Contribution Graph</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joseph-Gabriel008/Joseph-Gabriel008/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joseph-Gabriel008/Joseph-Gabriel008/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Joseph-Gabriel008/Joseph-Gabriel008/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Joseph-Gabriel008/Joseph-Gabriel008/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Joseph-Gabriel008/Joseph-Gabriel008/main/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/Joseph-Gabriel008/Joseph-Gabriel008/main/output/pacman-contribution-graph.svg">
 </picture>
