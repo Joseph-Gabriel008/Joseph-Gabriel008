@@ -69,7 +69,7 @@
 
 <hr/>
 
-<h2>🟡 Pacman Contribution Graph</h2>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
