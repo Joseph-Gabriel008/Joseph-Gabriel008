@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=joseph-gabriel008&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joseph-gabriel008&theme=onedark&margin-w=10" />
-</p>
 
 <hr/>
 
@@ -55,13 +52,6 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseph-gabriel008&layout=compact&theme=transparent&cache_seconds=86400&v=1"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=joseph-gabriel008&show_icons=true&theme=transparent&cache_seconds=86400&v=1"/>
-</p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=joseph-gabriel008&theme=transparent&cache_seconds=86400"/>
