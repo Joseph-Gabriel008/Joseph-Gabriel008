@@ -1,22 +1,24 @@
 <div align="center">
 
-# 🎮 S. Joseph Gabriel — Developer Quest
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Joseph%20Gabriel&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Future%20Cloud%20Engineer%20%C2%B7%20CSE%20Student%20%C2%B7%20Builder%20of%20Digital%20Experiences&descSize=16&descAlignY=58" alt="Joseph Gabriel banner" width="100%" />
 
-### `Future Cloud Engineer` · `CSE Student` · `Builder of Digital Experiences`
+<a href="https://github.com/Joseph-Gabriel008">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=45&lines=Python+%26+Automation+Developer;Flutter+%26+Mobile+App+Builder;Telegram+Chatbots+with+AI;Learning+Cloud+Deployment+%E2%98%81%EF%B8%8F" alt="Typing animation" />
+</a>
 
-<p>
-  <a href="https://sjosephgabrielportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_ENTER_PORTFOLIO-0e75b6?style=for-the-badge" alt="Enter portfolio" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.outfique.app&pli=1">
-    <img src="https://img.shields.io/badge/📱_PLAY_OUTFIQUE-34A853?style=for-the-badge" alt="Play Outfique" />
-  </a>
-  <a href="mailto:sjosephgabriel8@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_CONTACT_ME-EA4335?style=for-the-badge" alt="Contact me" />
-  </a>
-</p>
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=joseph-gabriel008&label=PROFILE%20VISITS&color=0e75b6&style=flat-square" alt="Profile visits" />
+<a href="https://sjosephgabrielportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.outfique.app&pli=1"><img src="https://img.shields.io/badge/Outfique_App-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Outfique" /></a>
+<a href="https://www.linkedin.com/in/joseph-gabriel-901708326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.hackerrank.com/profile/joseph_gabriel"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+<a href="mailto:sjosephgabriel8@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=joseph-gabriel008&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Joseph-Gabriel008?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Joseph-Gabriel008?label=Stars&style=flat-square&color=34A853&affiliations=OWNER" alt="Stars" />
 
 </div>
 
@@ -26,45 +28,35 @@
 
 <table>
   <tr>
-    <td><b>👤 Player</b></td>
-    <td>S. Joseph Gabriel</td>
-  </tr>
-  <tr>
-    <td><b>🎯 Class</b></td>
-    <td>Cloud Engineer in Training</td>
-  </tr>
-  <tr>
-    <td><b>⚡ Specialization</b></td>
-    <td>Python · Automation · Chatbots · Mobile Apps</td>
-  </tr>
-  <tr>
-    <td><b>🌍 Current Mission</b></td>
-    <td>Building practical products and learning cloud deployment</td>
+    <td width="50%" valign="top">
+
+```yaml
+player:   S. Joseph Gabriel
+class:    Cloud Engineer in Training
+degree:   B.E. Computer Science & Engineering
+focus:    Python · Automation · Chatbots · Flutter
+mission:  Build practical products, learn cloud
+status:   🟢 Online & building
+```
+
+  </td>
+  <td width="50%" valign="top">
+
+```python
+class Developer:
+    name = "Joseph Gabriel"
+    stack = ["Python", "Flutter", "C", "Java"]
+    learning = ["Cloud", "Backend", "DevOps"]
+
+    def goal(self):
+        return "Ship useful things, daily."
+```
+
+  </td>
   </tr>
 </table>
 
-<details>
-  <summary><b>🎮 Click to start the developer quest</b></summary>
-  <br />
-
-  ```text
-  ┌──────────────────────────────────────────────────────────┐
-  │                  DEVELOPER QUEST                        │
-  ├───────────────��──────────────────────────────────────────┤
-  │  [1] Explore my portfolio                                │
-  │  [2] Try my Android app                                  │
-  │  [3] View my GitHub projects                             │
-  │  [4] Connect with me                                     │
-  └──────────────────────────────────────────────────────────┘
-  ```
-
-  <p>
-    <a href="https://sjosephgabrielportfolio.netlify.app/">🌐 <b>[1] Explore Portfolio</b></a> ·
-    <a href="https://play.google.com/store/apps/details?id=com.outfique.app&pli=1">📱 <b>[2] Try Outfique</b></a> ·
-    <a href="https://github.com/Joseph-Gabriel008">💻 <b>[3] Open GitHub</b></a> ·
-    <a href="mailto:sjosephgabriel8@gmail.com">✉️ <b>[4] Send Message</b></a>
-  </p>
-</details>
+---
 
 ## 🧭 Featured Missions
 
@@ -72,14 +64,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Portfolio World</h3>
-      <p>Explore my skills, experience, projects, and journey as an aspiring cloud engineer.</p>
+      <p>Skills, experience, projects and my journey toward becoming a cloud engineer.</p>
       <a href="https://sjosephgabrielportfolio.netlify.app/">
         <img src="https://img.shields.io/badge/ENTER_WORLD-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" alt="Open portfolio" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Outfique App</h3>
-      <p>Try my personal Android project on Google Play and send me your feedback.</p>
+      <h3>📱 Outfique</h3>
+      <p>My Android app, live on Google Play. Try it and send me feedback.</p>
       <a href="https://play.google.com/store/apps/details?id=com.outfique.app&pli=1">
         <img src="https://img.shields.io/badge/DOWNLOAD_APP-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Download Outfique" />
       </a>
@@ -88,61 +80,64 @@
 </table>
 
 <details>
-  <summary><b>🔍 View mission details</b></summary>
+  <summary><b>🔍 Mission log (click to expand)</b></summary>
   <br />
 
-  - 🔭 **Active mission:** Telegram chatbot using OpenRouter
-  - 🌱 **Learning path:** B.E. Computer Science and Engineering
-  - 🤝 **Co-op mode:** Python, automation, Flutter, backend, and cloud projects
-  - 🧩 **Boss battle:** Cloud deployment and backend optimization
+| Status | Mission | Details |
+|:------:|---------|---------|
+| 🔥 Active | Telegram AI chatbot | Built with OpenRouter |
+| 📚 Learning | B.E. Computer Science & Engineering | Core CS foundations |
+| 🤝 Open | Co-op mode | Python, automation, Flutter, backend, cloud projects |
+| 👹 Boss battle | Cloud deployment | Backend optimization and scaling |
+
 </details>
+
+---
 
 ## 🛠️ Skill Tree
 
-### Languages
+<details open>
+  <summary><b>⚔️ Languages</b></summary>
+  <br />
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,c,java,js,dart&perline=5" alt="Languages" />
+  </p>
+</details>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" height="42" alt="Dart" />
-</p>
+<details open>
+  <summary><b>🧰 Frameworks, Databases & Tools</b></summary>
+  <br />
+  <p>
+    <img src="https://skillicons.dev/icons?i=flutter,html,css,mysql,git,github,netlify&perline=7" alt="Tools" />
+  </p>
+</details>
 
-### Frameworks, Databases & Tools
+<details>
+  <summary><b>🎯 Currently levelling up</b></summary>
+  <br />
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,fastapi&perline=4" alt="Learning" />
+  </p>
+</details>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
-</p>
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/joseph-gabriel-901708326/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/joseph_gabriel" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-  </a>
-  <a href="https://github.com/Joseph-Gabriel008" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+---
 
 ## 📊 Activity Dashboard
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-gabriel008&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joseph-Gabriel008&bg_color=ffffff00&color=0e75b6&line=0e75b6&point=403d3d&area=true&hide_border=true" alt="GitHub activity graph" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joseph-Gabriel008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-Gabriel008&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-gabriel008&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joseph-Gabriel008&bg_color=0d1117&color=38bdf8&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%" />
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joseph-Gabriel008/Joseph-Gabriel008/main/output/pacman-contribution-graph-dark.svg" />
@@ -150,7 +145,19 @@
   <img src="https://raw.githubusercontent.com/Joseph-Gabriel008/Joseph-Gabriel008/main/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 </picture>
 
+---
+
+## 🎮 Choose Your Next Move
+
 <div align="center">
-  <br />
-  <b>⭐ Thanks for visiting my profile — choose a mission above and let's build something great!</b>
+
+| [🌐 Explore Portfolio](https://sjosephgabrielportfolio.netlify.app/) | [📱 Try Outfique](https://play.google.com/store/apps/details?id=com.outfique.app&pli=1) | [💻 Browse GitHub](https://github.com/Joseph-Gabriel008) | [✉️ Say Hello](mailto:sjosephgabriel8@gmail.com) |
+|:---:|:---:|:---:|:---:|
+
+<br />
+
+**⭐ Thanks for visiting. Pick a mission above and let's build something great together!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="Footer" width="100%" />
+
 </div>
